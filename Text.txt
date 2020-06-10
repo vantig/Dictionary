@@ -1,0 +1,7 @@
+shoe shoe ботинок 1
+apple apple яблоко 3
+keyboard keyboard клава 5
+bridge bridge мост 0
+hope hope надежда 2
+help help помощь 3
+screen screen экран 0
